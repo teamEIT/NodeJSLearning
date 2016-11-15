@@ -1,8 +1,10 @@
 {
-	"name"			:	"SERVER",
-	"version"		:	"0.0.1",
-	"private"		:	"true",
-	"dependencies"	:	{
-		"express" : "*"
-	}
+  "name": "SERVER",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "*",
+    "multer": "^1.2.0"
+  }
 }
